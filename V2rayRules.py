@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#coding=UTF-8 
 from subprocess import call
 from os.path import isdir, split, realpath, join, exists
 from sys import stderr
